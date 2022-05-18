@@ -1,0 +1,37 @@
+.bg-cont {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Bree Serif;
+}
+.input-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+}
+.tabs-cont {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.apps-list {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
